@@ -46,7 +46,7 @@ Looking for a **17‑week internship** in **Systems, Networks & Cyber‑security
 
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge\&logo=microsoft-outlook\&logoColor=white)](mailto:loic_leenaerts@reseau.eseo.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white\&style=for-the-badge)](https://linkedin.com/in/loic-harry-leenaerts)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white\&style=for-the-badge)](https://github.com/THE07s)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white\&style=for-the-badge)](https://github.com/harry-lleen)
 
 ---
 
