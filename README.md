@@ -71,18 +71,18 @@ Looking for a **17‑week internship** in **Systems, Networks & Cyber‑security
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=THE07s\&theme=dark\&hide_border=true\&include_all_commits=true\&count_private=true\&layout=compact) <br>
-![](https://github-readme-stats.vercel.app/api?username=THE07s\&theme=dark\&hide_border=true\&include_all_commits=true\&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=THE07s\&theme=dark\&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harry-lleen\&theme=dark\&hide_border=true\&include_all_commits=true\&count_private=true\&layout=compact) <br>
+![](https://github-readme-stats.vercel.app/api?username=harry-lleen\&theme=dark\&hide_border=true\&include_all_commits=true\&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=harry-lleen\&theme=dark\&hide_border=true)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=THE07s\&theme=dark\&no-frame=true\&no-bg=false\&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=harry-lleen\&theme=dark\&no-frame=true\&no-bg=false\&margin-w=4)
 
 ### 🔝 Top Contributed Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=THE07s\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=harry-lleen\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=THE07s\&icon=0\&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=harry-lleen\&icon=0\&color=2)](https://visitcount.itsvg.in)
