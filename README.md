@@ -2,14 +2,15 @@
 
 ## 👋 Hey, I'm **Loïc**
 
-Engineering student (first year of the graduate cycle) at **ESEO Angers, France**. Passionate about **cloud**, **systems & networking**, **cyber‑security**, and **infrastructure automation**.
+Engineering student (second year of the graduate cycle) at **ESEO Angers, France**. Passionate about **cloud**, **systems & networking**, **cyber‑security**, **infrastructure automation** and recently **AI-based automation**.
 
 ---
 
 ## In a nutshell
 
 I like to tear infrastructure apart to automate it so it heals and functions on its own.
-Right now I'm building a **"drone" restrained to 1 degree of freedom** and coding a **Java tool** to monitor my PC from my phone.
+Right now I'm building a **self-hosted mini datacenter with a services catalog** from scratch: service provisioning with Ansible, isolated environments with Vagrant, encrypted backup pipelines, and a full network layer with OPNsense and Zabbix.
+
 
 ---
 
@@ -36,9 +37,9 @@ Right now I'm building a **"drone" restrained to 1 degree of freedom** and cod
 
 ---
 
-## My 2025 Objective
+## My 2026 Objective
 
-Looking for a **17‑week internship** in **Systems, Networks & Cyber‑security** starting **July 2025**.
+Looking for a **1-year Professionalization Contract** in **Cyber‑security & Systems** starting **September 2026**.
 
 ---
 
